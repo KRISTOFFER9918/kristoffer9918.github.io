@@ -27,13 +27,13 @@ img {
       text-align: center;
       font-size: 2em;
       font-family: mountains of christmas ;
-      text-shadow: 0px opx 8px rgba(255,65,185,1)
+      text-shadow: 0px 0px 8px rgba(255,65,185,1)
     
   }
 
   div.sticky {
     position: sticky;
-    top: 10;
+    top: 10px;
     padding: 5px;
     background-color: #cae8ca;
     border: 2px solid #4CAF50;
